@@ -1,6 +1,6 @@
 # R语言程序设计第一次作业
 - 作业的截止时间是2019年5月24日晚上12点
-- 作业提交方式，讲个人仓库地址发送到https://oc.sjtu.edu.cn/courses/8434/assignments
+- 作业提交方式，个人仓库地址发送到https://oc.sjtu.edu.cn/courses/8434/assignments
 
 # 作业要求
 - 注册个人github账号
