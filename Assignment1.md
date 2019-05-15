@@ -5,7 +5,8 @@
 # 作业要求
 - 注册个人github账号
 - 在本地安装git
-- 通过本地命令行clone https://github.com/DongboShi/Rcourse_SJTU 项目，并在该项目下完成第一次commit
+- Fork https://github.com/DongboShi/Rcourse_SJTU 项目
+- 通过本地命令行clone到本地，并在该项目下完成第一次commit
 - 第一次commit要求为一个.md文件，文件中包括自己的序号与姓名
 - 将实现上述过程的本地代码截图push到同一个仓库，成为本项目的第二个commit
 
